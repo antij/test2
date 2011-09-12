@@ -8,3 +8,5 @@ function test1($arr) {
 function test2($arr) {
     echo 'hey there';
 }
+
+// this was added directly on github
