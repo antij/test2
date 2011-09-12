@@ -10,3 +10,4 @@ function test2($arr) {
 }
 
 // this was added directly on github
+// and another line
