@@ -20,5 +20,5 @@ function num6(){
 }
 
 function test7(){
-    
+    echo 'num7';
 }
