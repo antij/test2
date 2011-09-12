@@ -1,10 +1,14 @@
 <?php
 
-function test1($arr) {
+function test3($arr) {
     echo 'hey there';
 }
 
 
-function test2($arr) {
+function test4($arr) {
     echo 'hey there';
+}
+
+function test5($arr) {
+    echo 'hey there test 5';
 }
