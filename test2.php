@@ -16,7 +16,7 @@ function test5($arr) {
 
 
 function num6(){
-    
+    echo 'num6';
 }
 
 function test7(){
