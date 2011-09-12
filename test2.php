@@ -13,3 +13,7 @@ function test4($arr2) {
 function test5($arr) {
     echo 'hey there test 5';
 }
+
+function test7(){
+    
+}
